@@ -21,7 +21,7 @@ This project documents the design and implementation of a **self-hosted AI infra
 
 After benchmarking multiple open-source models, the following LLMs were selected:
 
-- **MinMax 2.5**
+- **MinMax 2.5 (10B)**
 - **Mistral Codestral 25.01 (22B)**
 
 ### Selection Criteria
@@ -61,7 +61,7 @@ This configuration allows the 22B model to run fully in GPU memory for optimal t
 | Containerization | Docker |
 | Inference Engine | SGLang |
 | UI | OpenWebUI |
-| LLMs | MinMax 2.5, Codestral 22B |
+| LLMs | MinMax 2.5, Codestral 25.01 |
 
 ---
 
