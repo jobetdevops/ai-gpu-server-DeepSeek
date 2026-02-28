@@ -157,15 +157,8 @@ LLMs (DeepSeek Coder V2)
 
 ## 👨‍💻 Author
 
-Senior DevOps Engineer specializing in:
-
-- Cloud architecture  
-- AI infrastructure  
-- GPU optimization  
-- Secure production environments  
-- MLOps & LLM deployment  
+Senior DevOps Engineer | Cloud & Kubernetes Architect | AI Infrastructure & MLOps | Cybersecurity
 
 ---
 
-*This repository demonstrates production-grade AI infrastructure design and secure LLM deployment in enterprise environments.*
 
