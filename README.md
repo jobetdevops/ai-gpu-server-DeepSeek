@@ -39,14 +39,14 @@ Codestral was chosen specifically for its strong code-generation capabilities.
 
 ### Hardware
 
-**Provider:** Hetzner (Dedicated Server – GEX131)
+**Provider:** Novita AI
 
 | Component | Specification |
 |------------|---------------|
 | CPU | 24 × Intel Xeon cores |
 | RAM | 256 GB ECC DDR5 |
-| GPU | NVIDIA RTX Pro 6000 |
-| VRAM | 96 GB GDDR7 |
+| GPU | 4z NVIDIA RTX Pro 6000 |
+| VRAM | 320 GB GDDR7 |
 
 This configuration allows the 236B model (21B active parameters) to run fully in GPU memory for optimal throughput and low latency.
 
