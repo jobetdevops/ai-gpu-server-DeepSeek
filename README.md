@@ -21,7 +21,7 @@ This project documents the design and implementation of a **self-hosted AI infra
 
 After benchmarking multiple open-source models, the following LLMs were selected:
 
-- **DeepSeek Coder V2 (10B)**
+- **DeepSeek Coder V2 (236B)**
 
 ### Selection Criteria
 
@@ -48,7 +48,7 @@ Codestral was chosen specifically for its strong code-generation capabilities.
 | GPU | NVIDIA RTX Pro 6000 |
 | VRAM | 96 GB GDDR7 |
 
-This configuration allows the 22B model to run fully in GPU memory for optimal throughput and low latency.
+This configuration allows the 236B model (21B active parameters) to run fully in GPU memory for optimal throughput and low latency.
 
 ---
 
