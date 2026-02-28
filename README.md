@@ -1,11 +1,11 @@
-# 🚀 Self-Hosted AI Infrastructure with SGLang
+# 🚀 Self-Hosted AI Infrastructure with DeepSeek Coder V2 LLM
 ### High-Performance, Secure LLM Platform for Coding & DevOps
 
 ---
 
 ## 📌 Overview
 
-This project documents the design and implementation of a **self-hosted AI infrastructure** built to replace external AI platforms (e.g. Gemini, Claude) in order to prevent sensitive data leakage while maintaining enterprise-grade performance.
+This project documents the design and implementation of a **self-hosted AI infrastructure** built to replace external AI SaaS platforms (e.g. Gemini, Claude, ChatGPT) in order to prevent sensitive data leakage while maintaining enterprise-grade performance.
 
 ### Objectives
 
@@ -21,8 +21,7 @@ This project documents the design and implementation of a **self-hosted AI infra
 
 After benchmarking multiple open-source models, the following LLMs were selected:
 
-- **MinMax 2.5 (10B)**
-- **Mistral Codestral 25.01 (22B)**
+- **DeepSeek Coder V2 (10B)**
 
 ### Selection Criteria
 
@@ -61,7 +60,7 @@ This configuration allows the 22B model to run fully in GPU memory for optimal t
 | Containerization | Docker |
 | Inference Engine | SGLang |
 | UI | OpenWebUI |
-| LLMs | MinMax 2.5, Codestral 25.01 |
+| LLMs | DeepSeek Coder V2 |
 
 ---
 
