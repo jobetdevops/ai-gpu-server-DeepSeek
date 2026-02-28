@@ -159,6 +159,8 @@ LLMs (DeepSeek Coder V2)
 
 Senior DevOps Engineer | Cloud & Kubernetes Architect | AI Infrastructure & MLOps | Cybersecurity
 
+https://www.linkedin.com/in/robertojobet/
+
 ---
 
 
