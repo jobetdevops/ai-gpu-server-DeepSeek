@@ -130,7 +130,7 @@ SGLang Inference Engine
 GPU (RTX Pro 6000)
    │
    ▼
-LLMs (MinMax / Codestral)
+LLMs (DeepSeek Coder V2)
 ```
 
 ---
